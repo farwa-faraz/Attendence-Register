@@ -1,0 +1,24 @@
+input{
+height: 70px;
+width: 600px;
+font-size: 40px;
+} 
+
+body{
+font-size: 40px;
+}
+
+#sort{
+display: none;
+background-color:cyan;
+height: 40px;
+width: 200px;
+font-size: 30px;
+}
+
+#button_submit{
+background-color:cyan;
+height: 40px;
+width: 200px;
+font-size: 30px;
+}
